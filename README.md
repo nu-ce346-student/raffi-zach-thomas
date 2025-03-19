@@ -1,6 +1,6 @@
 # Northwestern Micro:bit v2 Base
 
-See the folder in "apps" title claw-machine to see relevant code for the project!
+See folder in "apps" titled claw-machine to see relevant code for the project!
 
 Starter code for Northwestern course CE346 based on Micro:bit v2.
 
