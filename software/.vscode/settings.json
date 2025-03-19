@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "joystick.h": "c",
+    "nrf_gpio.h": "c",
+    "stdbool.h": "c",
+    "ir_sensor.h": "c",
+    "app_timer.h": "c",
+    "microbit_v2.h": "c",
+    "nrf_delay.h": "c",
+    "nrf_twi_mngr.h": "c"
+  }
+}
