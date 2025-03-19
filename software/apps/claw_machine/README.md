@@ -1,7 +1,4 @@
-Computer Bidirectional App
+Claw Machine Game
 ==========================
 
-Uses getchar and putchar to echo data over serial.
-
-To see output run `miniterm /dev/ttyACM0 38400` and type into it.
-
+Claw machine magnetic game for CE 346 final project
